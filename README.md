@@ -1,6 +1,6 @@
 # Cheat  Sheet
 
-Customizable macro board with computer vision. Submitted to [EngHack 2021](https://enghack-2021.devpost.com/).
+Customizable macro board with computer vision. Submitted to [EngHack 2021](https://devpost.com/software/cheat-sheet).
 
 ## Installation
 
